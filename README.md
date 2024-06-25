@@ -1,7 +1,7 @@
-# Login_QT_Creator
-## Creation of login using QT_Creator and C++
+# Login_QT_Creator: Creation of login using QT_Creator and C++
 This form allows the user to enter their name and password, if they are correct, 
 it will display a message to you that they are correct otherwise not.
+
 <h2>Steps:</h2>
 <ul>
   <li>open the QT creator software ->Sélectionnez `Application` -> `Qt Widgets Application`.-> new project -> enter the project name"name-projet"</li>
